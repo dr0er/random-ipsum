@@ -1,0 +1,36 @@
+* {
+  background-color: rgba(203, 170, 212, 0.733);
+  margin: 20px;
+}
+
+section {
+  text-align: center;
+  font-size: 20px;
+  padding: 30px;
+  margin: 25px;
+}
+
+h3 {
+  text-decoration: overline;
+  text-decoration-color: rgba(179, 27, 146, 0.788);
+  color: rgb(94, 25, 184);
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#butt {
+  border-radius: 8px;
+  padding: 5px;
+  background-color: rgb(241, 91, 161);
+  font-size: 20px;
+}
+
+#amount {
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+}
+
+label {
+  font-size: 25px;
+}
